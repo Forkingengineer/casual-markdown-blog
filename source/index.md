@@ -7,7 +7,7 @@ nav-width  : 320px
 css-header : background:linear-gradient(to bottom right, #06c, #fc0); color:white
 menu       : 
    Home    : ?
-   github  : https://github.com/forking engineer/casual-markdown-blog
+   github  : https://github.com/forkingengineer/casualmarkdown-blog
    Dark    : javascript:darkmode()
    About   : ?page=about.md
 -----------------------------------------------------------------------------
